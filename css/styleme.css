@@ -1,0 +1,25 @@
+/* My main style*/
+body{
+    background: rgb(77, 77, 77);
+    font-size: 18px;
+    font-family: Arial;
+}
+
+*{
+    color: white;
+}
+h1, h3{
+    color: rgb(153, 194, 255);
+}
+.mine {
+    color: rgb(255, 204, 0);
+}
+a{
+    color: crimson;
+}
+.imageSize{
+    width: 300px;
+}
+#miu{
+    color:chartreuse;
+}
