@@ -19,6 +19,10 @@ h1, h3{
 }
 a{
     color: crimson;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
 .imageSize{
     width: 300px;
